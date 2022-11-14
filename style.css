@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  h1{
+    font-size: 3.3rem;
+  }
+
+  body{
+    background-image: url(/images/bg-intro-desktop.png);
+    background-color: hsl(0, 100%, 74%);
+  }
+
+  .trial{
+    background-color: hsl(248, 32%, 49%);
+  }
+
+  .attribution{
+    font-size: 11px; 
+    text-align: center; 
+  }
+
+  .attribution a{
+    color: hsl(228, 45%, 44%); 
+  }
+
+  .info{
+    font-size: 15px;
+  }
+  .trial span{
+    color: hsl(246, 25%, 77%);
+  }
+
+  .info span{
+    color: hsl(0, 100%, 74%)
+  }
+
+@media(max-width: 768px) {
+   h1{
+    font-size: 2rem;
+   }
+   .info{
+    text-align: center;
+   }
+   article{
+    text-align: center;
+  } 
+  .trial{
+    font-size: 20px;
+    text-align: center;
+  }
+}
+ 
+  
