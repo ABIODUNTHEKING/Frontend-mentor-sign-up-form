@@ -6,8 +6,10 @@
 
   h1{
     font-size: 3.3rem;
+    margin-top: 55px;
   }
 
+  
   body{
     background-image: url(/images/bg-intro-desktop.png);
     background-color: hsl(0, 100%, 74%);
@@ -40,6 +42,7 @@
 @media(max-width: 768px) {
    h1{
     font-size: 2rem;
+    margin-top: 0;
    }
    .info{
     text-align: center;
@@ -51,6 +54,7 @@
     font-size: 20px;
     text-align: center;
   }
+
 }
  
   
