@@ -39,6 +39,8 @@
     color: hsl(0, 100%, 74%)
   }
 
+ 
+
 @media(max-width: 768px) {
    h1{
     font-size: 2rem;
