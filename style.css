@@ -7,12 +7,14 @@
   h1{
     font-size: 3.3rem;
     margin-top: 55px;
+    font-weight: 600;
   }
 
   
   body{
     background-image: url(/images/bg-intro-desktop.png);
     background-color: hsl(0, 100%, 74%);
+    font-family: 'Poppins', sans-serif;
   }
 
   .trial{
